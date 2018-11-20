@@ -35,7 +35,7 @@ This is an Unreal project utilizing Blueprints to create a game with a main menu
 
 ![Create a Game Over Blueprint](https://raw.githubusercontent.com/sirnameless/Unreal-JustTheBasics/master/readmefiles/game_over_menu_bp.png)
 
-## Create a 2D Decals and Animations
+## Create 2D Decals and Animations
 
 ![Create a transparent decal](https://raw.githubusercontent.com/sirnameless/Unreal-JustTheBasics/master/readmefiles/transparent_decal.png)
 
