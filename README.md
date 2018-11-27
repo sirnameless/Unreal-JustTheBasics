@@ -59,6 +59,8 @@ Next, select our player actor. In the Details tab, click on "Edit Blueprint > Op
 
 From Event Hit, let us check if the actor we hit has the actor tag that we created. If it does, we will move to the Game Over map.
 
+![Event Hit Character Blueprint](https://raw.githubusercontent.com/sirnameless/Unreal-JustTheBasics/master/readmefiles/event_hit_bp.png)
+
 ## Let us go back to gameplay from a Game Over Screen
 
 Create a Game Over widget just like our Main Menu widget, and add it to your Game Over map. Add a button with this simple logic below to move back to the main menu.
